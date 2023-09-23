@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/nzYhnWQ/252-Fashion-sale-facebook-cover-page-template.jpg",
+        "title": "The Galactic Odyssey",
+        "author": "Astrid Nova",
+        "author_img": "https://i.ibb.co/BzZjn2z/portrait-smiling-student-writing-classroom.jpg",
+        "posted_date": "2023-09-19",
+        "reading_time": "2",
+        "hashtags": ["sciencefiction", "spaceadventure", "epic"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/82B817g/8229425.jpg",
+        "title": "The Quantum Paradox",
+        "author": "Dr. Max Quantum",
+        "author_img": "https://i.ibb.co/WV8q0R0/woman-nature-writing.jpg",
+        "posted_date": "2023-09-18",
+        "reading_time": "7",
+        "hashtags": ["quantumphysics", "mystery", "adventure"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/0tHRHW0/8259177.jpg",
+        "title": "Chronicles of Zoglor-7",
+        "author": "Xarlon the Explorer",
+        "author_img": "https://i.ibb.co/nk5hFK6/pretty-curly-young-woman-writing-notes-startup-project.jpg",
+        "posted_date": "2023-09-17",
+        "reading_time": "3",
+        "hashtags": ["alienworlds", "adventures", "fantasy"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/dc9kJ2p/9320540.jpg",
+        "title": "Robo-Dog Diaries",
+        "author": "Megan Robotics",
+        "author_img": "https://i.ibb.co/vLF1rsB/medium-shot-woman-with-diary-book.jpg",
+        "posted_date": "2023-09-16",
+        "reading_time": "6",
+        "hashtags": ["artificialintelligence", "pets", "diaries"]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/DrrnN1w/298-furniture-social-media-post-template.jpg",
+        "title": "The Time-Warpinator Chronicles",
+        "author": "Professor Chrono",
+        "author_img": "https://i.ibb.co/wYM9byk/young-woman-sitting-library.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": "9",
+        "hashtags": ["timetravel", "science", "adventure"]
+    }
+]
